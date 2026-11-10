@@ -1,12 +1,17 @@
+![Tiyatro](img/DOSYA-ADI.jpg)
+
 # Tiyatro
 
-My first web project, built in high school during the COVID lockdown
-while I was taking Bootstrap lessons: a small info site about Turkish
-theatre actors, made with HTML, CSS and Bootstrap.
+My first web project (2020), built in high school during the COVID
+lockdown while I was taking Bootstrap lessons: a small info site about
+Turkish theatre actors, made with HTML, CSS and Bootstrap. Design, code
+and the header image (my own Photoshop edit) are mine; the texts about
+the actors were written by a fellow Kabataşlı.
 
-I keep it here as a memory of where I started.
+Live: https://aarmert.github.io/tiyatro/
 
 ---
 
-*Lisede, korona döneminde Bootstrap dersleri alırken yaptığım ilk web
-projem: Türk tiyatro oyuncuları hakkında küçük bir bilgi sitesi.*
+*2020'de lisedeyken, korona döneminde Bootstrap dersleri alırken
+yaptığım ilk web projem. Tasarım, kod ve kapak görseli bana ait;
+oyuncular hakkındaki yazıları başka bir Kabataşlı yazdı.*
