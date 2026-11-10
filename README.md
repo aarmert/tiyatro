@@ -1,4 +1,4 @@
-![Tiyatro](img/DOSYA-ADI.jpg)
+![Tiyatro](img/bruh.png)
 
 # Tiyatro
 
